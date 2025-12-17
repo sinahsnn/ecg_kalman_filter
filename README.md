@@ -7,10 +7,10 @@ The framework is evaluated on the **PTB-XL dataset** using both single-lead and 
 ## Repository Contents
 
 - `code1_specified_leads.ipynb`  
-  Controlled experiments with specified source leads. Includes reconstruction examples, innovation analysis, and Kalman gain visualization.
+  include single lead - single lead analysis. Includes reconstruction examples, innovation analysis, and Kalman gain visualization.
 
 - `code2_all_leads.ipynb`  
-  Exhaustive multi-lead reconstruction experiments used to analyze inter-lead redundancy and SNR distributions.
+  include multi-lead reconstruction experiments used to analyze inter-lead redundancy and SNR distributions.
 
 - `ecg_utils.py`  
   Utility functions for PTB-XL loading, preprocessing, and SNR computation.
