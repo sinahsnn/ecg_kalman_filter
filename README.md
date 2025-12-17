@@ -23,7 +23,6 @@ The framework is evaluated on the **PTB-XL dataset** using both single-lead and 
 ### Reconstruction Results
 
 [![Reconstructed ECG Signal](outputs/reconstructed_signal.png)](outputs/reconstructed_signal.png)  
-[![Reconstruction Output](outputs/output.png)](outputs/output.png)
 
 True vs reconstructed ECG signals showing preserved P–QRS–T morphology and low reconstruction error.
 
